@@ -1,6 +1,6 @@
 # Git & GitHub Documentation
 
-### [Lesson 2. Introduction to git and GitHub](https://youtu.be/ulTs4vqOzyo)
+## [Lesson 2. Introduction to git and GitHub](https://youtu.be/ulTs4vqOzyo)
 
 1. git?
    - git is a version control software
